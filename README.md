@@ -8,7 +8,7 @@ Highlights:
 - 🚀 Online user status
 - 👌 Global state management with Zustand
 - 🐞 Error handling both on the server and the client
-- 
+  
 ### Setup .env file
 
 ```js
