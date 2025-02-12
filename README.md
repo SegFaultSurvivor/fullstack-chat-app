@@ -3,7 +3,7 @@
 ## Demo
 
 ### 📸 Project Screenshot
-![Project Screenshot](public/signin.png)  
+<img width="1280" alt="Screenshot 2024-10-16 042131" src="https://github.com/SegFaultSurvivor/fullstack-chat-app/blob/5049ec8cea3b0d8807f4924bc5b13cd2fc18a995/frontend/public/signin.png"> 
 
 ### 🎥 Watch the Demo Video  
 [![Watch the video](assets/video-thumbnail.png)](https://your-video-link.com)
