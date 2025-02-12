@@ -3,7 +3,7 @@
 ## Demo
 
 ### 📸 Project Screenshot
-![Project Screenshot](assets/chat-app-screenshot.png)  
+![Project Screenshot](public/signin.png)  
 
 ### 🎥 Watch the Demo Video  
 [![Watch the video](assets/video-thumbnail.png)](https://your-video-link.com)
