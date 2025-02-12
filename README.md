@@ -2,8 +2,13 @@
 
 ## Demo
 
-![Project Screenshot](path/to/image.png)  
-[![Watch the video](path/to/video-thumbnail.png)](path/to/video.mp4)
+### 📸 Project Screenshot
+![Project Screenshot](assets/chat-app-screenshot.png)  
+
+### 🎥 Watch the Demo Video  
+[![Watch the video](assets/video-thumbnail.png)](https://your-video-link.com)
+
+---
 
 ## Highlights:
 
@@ -14,7 +19,9 @@
 - 👌 Global state management with Zustand
 - 🐞 Error handling both on the server and the client
 
-## Setup .env file
+---
+
+### Setup .env file
 
 ```js
 MONGODB_URI=...
@@ -26,3 +33,16 @@ CLOUDINARY_API_KEY=...
 CLOUDINARY_API_SECRET=...
 
 NODE_ENV=development
+```
+
+### Build the app
+
+```shell
+npm run build
+```
+
+### Start the app
+
+```shell
+npm start
+```
