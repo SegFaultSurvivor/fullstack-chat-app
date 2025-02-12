@@ -9,7 +9,7 @@
 <img width="1280" alt="Screenshot 2024-10-16 042131" src="https://github.com/SegFaultSurvivor/fullstack-chat-app/blob/e41bdcee5c8395e7afbfb9bb46e7b07bc5a9a19f/frontend/public/chatcontainer.png"> 
 
 ### 🎥 Watch the Demo Video  
-[![Watch the video](assets/video-thumbnail.png)](https://your-video-link.com)
+[Chat App Walkthrough Video](https://github.com/SegFaultSurvivor/fullstack-chat-app/blob/3df35fac4cc9f90191e008223e3d99e5f8f604a9/frontend/public/chat-app.mp4)
 
 ---
 
